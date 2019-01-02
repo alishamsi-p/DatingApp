@@ -1,0 +1,14 @@
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+E:\testcode\dotnet\shamsi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
